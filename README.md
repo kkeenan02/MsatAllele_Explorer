@@ -6,6 +6,7 @@ Plots are generated using `ggplot2`, and binning is carried out using a modified
 
 The application accepts data in the format specified for the `MsatAllele` package.
 
+```r
 ------------------------------------------------
  Marker   Sample    Fragment     Date     Plate 
 -------- --------- ---------- ---------- -------
@@ -21,3 +22,4 @@ The application accepts data in the format specified for the `MsatAllele` packag
 
  Ssa85   BWG040104   114.3    2015-01-02  test  
 ------------------------------------------------
+```
